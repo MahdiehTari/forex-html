@@ -1,0 +1,25 @@
+
+body{
+    background-color: gray;
+}
+
+tr:nth-child(even) {
+    background-color: #E5E8E8;
+    color: black;
+}
+
+tr:nth-child(odd) {
+    background-color: #797D7F;
+    color: black;
+}
+
+th {
+    background-color: #212F3C;
+    color: white;
+}
+
+.divergence{
+    padding: 10px;
+    border-radius: 15px;
+    color: black;
+}
